@@ -161,6 +161,10 @@ export default function HomePage() {
           description="We offer specialized consulting services tailored to every stage of your business lifecycle and exit planning."
           tag="Full-Spectrum Solutions"
           tagAnimation="slide-up"
+          buttons={[
+            {
+              text: "Request Custom Quote",              href: "contact"},
+          ]}
           products={[
             {
               id: "valuation",              name: "Business Valuation & Analysis",              price: "Starting ₹50,000",              variant: "Strategic Planning",              imageSrc: "http://img.b2bpic.net/free-photo/whiteboard-success-research-adult-human-office_1418-529.jpg?_wi=1",              imageAlt: "Business valuation financial analysis documents"},
