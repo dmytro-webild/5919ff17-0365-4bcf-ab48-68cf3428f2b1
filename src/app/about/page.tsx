@@ -48,9 +48,7 @@ export default function AboutPage() {
             { name: "Contact", id: "contact" },
           ]}
           button={{
-            text: "Get Free Valuation",
-            href: "contact",
-          }}
+            text: "Get Free Valuation",            href: "contact"}}
         />
       </div>
 
@@ -63,37 +61,27 @@ export default function AboutPage() {
           tagAnimation="slide-up"
           buttons={[
             {
-              text: "Get In Touch",
-              href: "contact",
-            },
+              text: "Get In Touch",              href: "contact"},
           ]}
           buttonAnimation="slide-up"
           bulletPoints={[
             {
-              title: "Founded with Purpose",
-              description:
-                "Started by two successful entrepreneurs who understood the complexities and sensitivities of selling a business. We've grown into a team of 25+ advisors dedicated solely to business exits.",
-              icon: Award,
+              title: "Founded with Purpose",              description:
+                "Started by two successful entrepreneurs who understood the complexities and sensitivities of selling a business. We've grown into a team of 25+ advisors dedicated solely to business exits.",              icon: Award,
             },
             {
-              title: "Deep Industry Expertise",
-              description:
-                "Our team includes former business founders, investment bankers, tax consultants, legal experts, and operational professionals who understand every dimension of business transactions.",
-              icon: CheckCircle,
+              title: "Deep Industry Expertise",              description:
+                "Our team includes former business founders, investment bankers, tax consultants, legal experts, and operational professionals who understand every dimension of business transactions.",              icon: CheckCircle,
             },
             {
-              title: "Commitment to Confidentiality",
-              description:
-                "Confidentiality isn't just our policy—it's our culture. We've maintained zero data breaches in 20+ years through military-grade security protocols and absolute discretion.",
-              icon: Shield,
+              title: "Commitment to Confidentiality",              description:
+                "Confidentiality isn't just our policy—it's our culture. We've maintained zero data breaches in 20+ years through military-grade security protocols and absolute discretion.",              icon: Shield,
             },
             {
-              title: "Founder-Centric Approach",
-              description:
-                "We treat every founder's exit as if it were our own. Your goals, timeline, and concerns drive every decision we make in the process.",
-            },
+              title: "Founder-Centric Approach",              description:
+                "We treat every founder's exit as if it were our own. Your goals, timeline, and concerns drive every decision we make in the process."},
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/multinational-business-colleagues-working-together_1163-5308.jpg?_wi=2"
+          imageSrc="http://img.b2bpic.net/free-photo/multinational-business-colleagues-working-together_1163-5308.jpg"
           imageAlt="Team of business advisors in consultation"
           mediaAnimation="opacity"
           imagePosition="left"
@@ -112,40 +100,28 @@ export default function AboutPage() {
           features={[
             {
               icon: DollarSign,
-              title: "Holistic Valuation",
-              description:
-                "We employ DCF, comparable transactions, asset-based, and market approaches to establish a realistic valuation range and identify key value drivers for optimization.",
-            },
+              title: "Holistic Valuation",              description:
+                "We employ DCF, comparable transactions, asset-based, and market approaches to establish a realistic valuation range and identify key value drivers for optimization."},
             {
               icon: Users,
-              title: "Strategic Buyer Identification",
-              description:
-                "Leveraging our network of 200+ pre-qualified buyers including PE firms, corporate acquirers, and strategic investors, we match your business with ideal buyers.",
-            },
+              title: "Strategic Buyer Identification",              description:
+                "Leveraging our network of 200+ pre-qualified buyers including PE firms, corporate acquirers, and strategic investors, we match your business with ideal buyers."},
             {
               icon: FileText,
-              title: "Professional Data Room Setup",
-              description:
-                "We organize and present your financial records, legal documents, operational metrics, and market position through a secure, efficient virtual data room.",
-            },
+              title: "Professional Data Room Setup",              description:
+                "We organize and present your financial records, legal documents, operational metrics, and market position through a secure, efficient virtual data room."},
             {
               icon: Handshake,
-              title: "Expert Negotiation Support",
-              description:
-                "Our seasoned negotiators secure optimal terms—purchase price, payment structure, earnouts, warranties, and non-compete clauses.",
-            },
+              title: "Expert Negotiation Support",              description:
+                "Our seasoned negotiators secure optimal terms—purchase price, payment structure, earnouts, warranties, and non-compete clauses."},
             {
               icon: ClipboardCheck,
-              title: "Legal & Compliance Excellence",
-              description:
-                "Full navigation of FDI regulations, MCA filings, tax structuring, and industry-specific compliance requirements ensures a smooth, compliant transaction.",
-            },
+              title: "Legal & Compliance Excellence",              description:
+                "Full navigation of FDI regulations, MCA filings, tax structuring, and industry-specific compliance requirements ensures a smooth, compliant transaction."},
             {
               icon: TrendingUp,
-              title: "Seamless Post-Close Transition",
-              description:
-                "From handover coordination to knowledge transfer and post-sale support, we ensure business continuity and your successful exit from operations.",
-            },
+              title: "Seamless Post-Close Transition",              description:
+                "From handover coordination to knowledge transfer and post-sale support, we ensure business continuity and your successful exit from operations."},
           ]}
           animationType="slide-up"
           textboxLayout="default"
@@ -162,32 +138,17 @@ export default function AboutPage() {
           tagAnimation="slide-up"
           metrics={[
             {
-              id: "1",
-              title: "Founder-Led Advisory",
-              subtitle:
-                "10+ senior advisors have successfully exited their own businesses, deeply understanding founder challenges and aspirations",
-              category: "Founder Experience",
-              value: "100% Relevant",
-            },
+              id: "1",              title: "Founder-Led Advisory",              subtitle:
+                "10+ senior advisors have successfully exited their own businesses, deeply understanding founder challenges and aspirations",              category: "Founder Experience",              value: "100% Relevant"},
             {
-              id: "2",
-              title: "Investment Banking Heritage",
-              subtitle:
-                "Team includes former partners from Goldman Sachs, Morgan Stanley, and leading boutique investment banks with M&A expertise",
-              category: "Banking Background",
-              value: "15+ Years Avg",
-            },
+              id: "2",              title: "Investment Banking Heritage",              subtitle:
+                "Team includes former partners from Goldman Sachs, Morgan Stanley, and leading boutique investment banks with M&A expertise",              category: "Banking Background",              value: "15+ Years Avg"},
             {
-              id: "3",
-              title: "Industry Specialists",
-              subtitle:
-                "Dedicated advisors covering technology, manufacturing, retail, healthcare, FMCG, and service sectors with sector-specific expertise",
-              category: "Sector Coverage",
-              value: "12+ Sectors",
-            },
+              id: "3",              title: "Industry Specialists",              subtitle:
+                "Dedicated advisors covering technology, manufacturing, retail, healthcare, FMCG, and service sectors with sector-specific expertise",              category: "Sector Coverage",              value: "12+ Sectors"},
           ]}
           animationType="slide-up"
-          textboxLayout="centered"
+          textboxLayout="default"
           useInvertedBackground={true}
         />
       </div>
@@ -200,19 +161,13 @@ export default function AboutPage() {
           socialLinks={[
             {
               icon: Linkedin,
-              href: "https://www.linkedin.com/company/indiabusinesssale",
-              ariaLabel: "LinkedIn",
-            },
+              href: "https://www.linkedin.com/company/indiabusinesssale",              ariaLabel: "LinkedIn"},
             {
               icon: Twitter,
-              href: "https://twitter.com/indiabusinesssale",
-              ariaLabel: "Twitter",
-            },
+              href: "https://twitter.com/indiabusinesssale",              ariaLabel: "Twitter"},
             {
               icon: Globe,
-              href: "https://www.indiabusinesssale.com",
-              ariaLabel: "Website",
-            },
+              href: "https://www.indiabusinesssale.com",              ariaLabel: "Website"},
           ]}
         />
       </div>
