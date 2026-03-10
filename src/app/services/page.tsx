@@ -34,9 +34,7 @@ export default function ServicesPage() {
             { name: "Contact", id: "contact" },
           ]}
           button={{
-            text: "Get Free Valuation",
-            href: "contact",
-          }}
+            text: "Get Free Valuation",            href: "contact"}}
         />
       </div>
 
@@ -49,34 +47,22 @@ export default function ServicesPage() {
           features={[
             {
               icon: DollarSign,
-              title: "Business Valuation",
-              description: "Comprehensive valuation using multiple methodologies to establish realistic market value and identify value-enhancement opportunities.",
-            },
+              title: "Business Valuation",              description: "Comprehensive valuation using multiple methodologies to establish realistic market value and identify value-enhancement opportunities."},
             {
               icon: Users,
-              title: "Buyer Identification",
-              description: "Access to our extensive network of qualified buyers including strategic acquirers, financial investors, and seasoned entrepreneurs.",
-            },
+              title: "Buyer Identification",              description: "Access to our extensive network of qualified buyers including strategic acquirers, financial investors, and seasoned entrepreneurs."},
             {
               icon: FileText,
-              title: "Documentation & Due Diligence",
-              description: "Professional data room management and comprehensive due diligence support to accelerate the buying process and close deals faster.",
-            },
+              title: "Documentation & Due Diligence",              description: "Professional data room management and comprehensive due diligence support to accelerate the buying process and close deals faster."},
             {
               icon: Handshake,
-              title: "Negotiation & Structuring",
-              description: "Expert negotiation to secure optimal deal terms, earnouts, and payment structures that maximize your returns and minimize tax liability.",
-            },
+              title: "Negotiation & Structuring",              description: "Expert negotiation to secure optimal deal terms, earnouts, and payment structures that maximize your returns and minimize tax liability."},
             {
               icon: ClipboardCheck,
-              title: "Regulatory & Compliance",
-              description: "Full compliance with FDI regulations, MCA requirements, and industry-specific rules ensuring seamless transaction execution.",
-            },
+              title: "Regulatory & Compliance",              description: "Full compliance with FDI regulations, MCA requirements, and industry-specific rules ensuring seamless transaction execution."},
             {
               icon: TrendingUp,
-              title: "Transition Planning",
-              description: "Smooth handover management and post-sale planning to ensure business continuity and your successful exit from operations.",
-            },
+              title: "Transition Planning",              description: "Smooth handover management and post-sale planning to ensure business continuity and your successful exit from operations."},
           ]}
           animationType="slide-up"
           textboxLayout="default"
@@ -92,53 +78,17 @@ export default function ServicesPage() {
           tagAnimation="slide-up"
           products={[
             {
-              id: "valuation",
-              name: "Business Valuation & Analysis",
-              price: "Starting ₹50,000",
-              variant: "Strategic Planning",
-              imageSrc: "http://img.b2bpic.net/free-photo/whiteboard-success-research-adult-human-office_1418-529.jpg?_wi=2",
-              imageAlt: "Business valuation financial analysis documents",
-            },
+              id: "valuation",              name: "Business Valuation & Analysis",              price: "Starting ₹50,000",              variant: "Strategic Planning",              imageSrc: "http://img.b2bpic.net/free-photo/whiteboard-success-research-adult-human-office_1418-529.jpg",              imageAlt: "Business valuation financial analysis documents"},
             {
-              id: "exit-planning",
-              name: "Exit Strategy Development",
-              price: "Starting ₹1,00,000",
-              variant: "Multi-Year Planning",
-              imageSrc: "http://img.b2bpic.net/free-photo/positive-worker-dancing-having-fun-startup-office-enjoying-listening-music-work-break-african-american-executive-manager-doing-dance-moves-after-finishing-company-investment-strategy_482257-74335.jpg?_wi=2",
-              imageAlt: "strategic exit planning business roadmap",
-            },
+              id: "exit-planning",              name: "Exit Strategy Development",              price: "Starting ₹1,00,000",              variant: "Multi-Year Planning",              imageSrc: "http://img.b2bpic.net/free-photo/positive-worker-dancing-having-fun-startup-office-enjoying-listening-music-work-break-african-american-executive-manager-doing-dance-moves-after-finishing-company-investment-strategy_482257-74335.jpg",              imageAlt: "strategic exit planning business roadmap"},
             {
-              id: "buyer-sourcing",
-              name: "Buyer Identification & Sourcing",
-              price: "Commission-based",
-              variant: "Success-Driven",
-              imageSrc: "http://img.b2bpic.net/free-photo/african-man-guy-black-suit-students-with-talet-girl-white-blouse_1157-41615.jpg?_wi=2",
-              imageAlt: "business buyer network meeting handshake",
-            },
+              id: "buyer-sourcing",              name: "Buyer Identification & Sourcing",              price: "Commission-based",              variant: "Success-Driven",              imageSrc: "http://img.b2bpic.net/free-photo/african-man-guy-black-suit-students-with-talet-girl-white-blouse_1157-41615.jpg",              imageAlt: "business buyer network meeting handshake"},
             {
-              id: "tax-optimization",
-              name: "Tax & Structure Optimization",
-              price: "Starting ₹75,000",
-              variant: "Post-Tax Maximization",
-              imageSrc: "http://img.b2bpic.net/free-vector/hand-drawn-credit-assessment-concept_23-2149167956.jpg?_wi=2",
-              imageAlt: "tax planning financial strategy consultation",
-            },
+              id: "tax-optimization",              name: "Tax & Structure Optimization",              price: "Starting ₹75,000",              variant: "Post-Tax Maximization",              imageSrc: "http://img.b2bpic.net/free-vector/hand-drawn-credit-assessment-concept_23-2149167956.jpg",              imageAlt: "tax planning financial strategy consultation"},
             {
-              id: "legal-compliance",
-              name: "Legal & Regulatory Compliance",
-              price: "Starting ₹1,00,000",
-              variant: "Full Documentation",
-              imageSrc: "http://img.b2bpic.net/free-photo/still-life-world-intellectual-property-day_23-2151325873.jpg?_wi=2",
-              imageAlt: "legal compliance documents contract review",
-            },
+              id: "legal-compliance",              name: "Legal & Regulatory Compliance",              price: "Starting ₹1,00,000",              variant: "Full Documentation",              imageSrc: "http://img.b2bpic.net/free-photo/still-life-world-intellectual-property-day_23-2151325873.jpg",              imageAlt: "legal compliance documents contract review"},
             {
-              id: "due-diligence",
-              name: "Due Diligence Management",
-              price: "Starting ₹2,00,000",
-              variant: "Professional Support",
-              imageSrc: "http://img.b2bpic.net/free-photo/analyzing-lifestyle-female-marketing-tech-high_1421-249.jpg?_wi=2",
-              imageAlt: "due diligence document review process",
-            },
+              id: "due-diligence",              name: "Due Diligence Management",              price: "Starting ₹2,00,000",              variant: "Professional Support",              imageSrc: "http://img.b2bpic.net/free-photo/analyzing-lifestyle-female-marketing-tech-high_1421-249.jpg",              imageAlt: "due diligence document review process"},
           ]}
           gridVariant="three-columns-all-equal-width"
           animationType="slide-up"
@@ -155,50 +105,20 @@ export default function ServicesPage() {
           tagAnimation="slide-up"
           metrics={[
             {
-              id: "1",
-              title: "500+ Successful Exits",
-              subtitle: "Facilitated business sales across India with average 6-12 month timelines",
-              category: "Experience",
-              value: "₹2000+ Cr",
-            },
+              id: "1",              title: "500+ Successful Exits",              subtitle: "Facilitated business sales across India with average 6-12 month timelines",              category: "Experience",              value: "₹2000+ Cr"},
             {
-              id: "2",
-              title: "Expert Team of 25+",
-              subtitle: "Seasoned advisors with 15+ years average experience in M&A and exit planning",
-              category: "Expertise",
-              value: "100% Qualified",
-            },
+              id: "2",              title: "Expert Team of 25+",              subtitle: "Seasoned advisors with 15+ years average experience in M&A and exit planning",              category: "Expertise",              value: "100% Qualified"},
             {
-              id: "3",
-              title: "98% Client Satisfaction",
-              subtitle: "Consistently rated highly for professionalism, confidentiality, and results delivery",
-              category: "Quality",
-              value: "Industry Leading",
-            },
+              id: "3",              title: "98% Client Satisfaction",              subtitle: "Consistently rated highly for professionalism, confidentiality, and results delivery",              category: "Quality",              value: "Industry Leading"},
             {
-              id: "4",
-              title: "Strategic Network",
-              subtitle: "Connected with 200+ pre-qualified buyers including PE firms, strategic investors, and entrepreneurs",
-              category: "Network",
-              value: "Exclusive Access",
-            },
+              id: "4",              title: "Strategic Network",              subtitle: "Connected with 200+ pre-qualified buyers including PE firms, strategic investors, and entrepreneurs",              category: "Network",              value: "Exclusive Access"},
             {
-              id: "5",
-              title: "Zero Conflicts",
-              subtitle: "Independent advisory with no competing interests - your success is our only agenda",
-              category: "Integrity",
-              value: "Fully Aligned",
-            },
+              id: "5",              title: "Zero Conflicts",              subtitle: "Independent advisory with no competing interests - your success is our only agenda",              category: "Integrity",              value: "Fully Aligned"},
             {
-              id: "6",
-              title: "Confidentiality Guaranteed",
-              subtitle: "Multi-layer security protocols and NDA compliance with zero data breaches in 20+ years",
-              category: "Trust",
-              value: "Bank-Grade Security",
-            },
+              id: "6",              title: "Confidentiality Guaranteed",              subtitle: "Multi-layer security protocols and NDA compliance with zero data breaches in 20+ years",              category: "Trust",              value: "Bank-Grade Security"},
           ]}
           animationType="slide-up"
-          textboxLayout="centered"
+          textboxLayout="default"
           useInvertedBackground={true}
         />
       </div>
@@ -210,19 +130,13 @@ export default function ServicesPage() {
           socialLinks={[
             {
               icon: Linkedin,
-              href: "https://www.linkedin.com/company/indiabusinesssale",
-              ariaLabel: "LinkedIn",
-            },
+              href: "https://www.linkedin.com/company/indiabusinesssale",              ariaLabel: "LinkedIn"},
             {
               icon: Twitter,
-              href: "https://twitter.com/indiabusinesssale",
-              ariaLabel: "Twitter",
-            },
+              href: "https://twitter.com/indiabusinesssale",              ariaLabel: "Twitter"},
             {
               icon: Globe,
-              href: "https://www.indiabusinesssale.com",
-              ariaLabel: "Website",
-            },
+              href: "https://www.indiabusinesssale.com",              ariaLabel: "Website"},
           ]}
         />
       </div>
