@@ -48,7 +48,7 @@ export default function ContactPage() {
             variant: "sparkles-gradient",
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/colleagues-working-together-project_23-2149286113.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/colleagues-working-together-project_23-2149286113.jpg?_wi=2"
           imageAlt="one-on-one business consultation meeting"
           mediaAnimation="opacity"
           mediaPosition="right"

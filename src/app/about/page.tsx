@@ -93,7 +93,7 @@ export default function AboutPage() {
                 "We treat every founder's exit as if it were our own. Your goals, timeline, and concerns drive every decision we make in the process.",
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/multinational-business-colleagues-working-together_1163-5308.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/multinational-business-colleagues-working-together_1163-5308.jpg?_wi=2"
           imageAlt="Team of business advisors in consultation"
           mediaAnimation="opacity"
           imagePosition="left"

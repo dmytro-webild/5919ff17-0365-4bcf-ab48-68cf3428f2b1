@@ -122,7 +122,7 @@ export default function HomePage() {
                 "From valuation and buyer identification through closing and transition planning, we manage every critical step of your exit journey.",
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/multinational-business-colleagues-working-together_1163-5308.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/multinational-business-colleagues-working-together_1163-5308.jpg?_wi=1"
           imageAlt="Team of business advisors in consultation"
           mediaAnimation="opacity"
           imagePosition="right"
@@ -195,7 +195,7 @@ export default function HomePage() {
               name: "Business Valuation & Analysis",
               price: "Starting ₹50,000",
               variant: "Strategic Planning",
-              imageSrc: "http://img.b2bpic.net/free-photo/whiteboard-success-research-adult-human-office_1418-529.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/whiteboard-success-research-adult-human-office_1418-529.jpg?_wi=1",
               imageAlt: "Business valuation financial analysis documents",
             },
             {
@@ -203,7 +203,7 @@ export default function HomePage() {
               name: "Exit Strategy Development",
               price: "Starting ₹1,00,000",
               variant: "Multi-Year Planning",
-              imageSrc: "http://img.b2bpic.net/free-photo/positive-worker-dancing-having-fun-startup-office-enjoying-listening-music-work-break-african-american-executive-manager-doing-dance-moves-after-finishing-company-investment-strategy_482257-74335.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/positive-worker-dancing-having-fun-startup-office-enjoying-listening-music-work-break-african-american-executive-manager-doing-dance-moves-after-finishing-company-investment-strategy_482257-74335.jpg?_wi=1",
               imageAlt: "Exit strategy consulting",
             },
             {
@@ -211,7 +211,7 @@ export default function HomePage() {
               name: "Buyer Identification & Sourcing",
               price: "Commission-based",
               variant: "Success-Driven",
-              imageSrc: "http://img.b2bpic.net/free-photo/african-man-guy-black-suit-students-with-talet-girl-white-blouse_1157-41615.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/african-man-guy-black-suit-students-with-talet-girl-white-blouse_1157-41615.jpg?_wi=1",
               imageAlt: "Buyer network identification",
             },
             {
@@ -219,7 +219,7 @@ export default function HomePage() {
               name: "Tax & Structure Optimization",
               price: "Starting ₹75,000",
               variant: "Post-Tax Maximization",
-              imageSrc: "http://img.b2bpic.net/free-vector/hand-drawn-credit-assessment-concept_23-2149167956.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/hand-drawn-credit-assessment-concept_23-2149167956.jpg?_wi=1",
               imageAlt: "Tax optimization strategy",
             },
             {
@@ -227,7 +227,7 @@ export default function HomePage() {
               name: "Legal & Regulatory Compliance",
               price: "Starting ₹1,00,000",
               variant: "Full Documentation",
-              imageSrc: "http://img.b2bpic.net/free-photo/still-life-world-intellectual-property-day_23-2151325873.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/still-life-world-intellectual-property-day_23-2151325873.jpg?_wi=1",
               imageAlt: "Legal compliance management",
             },
             {
@@ -235,7 +235,7 @@ export default function HomePage() {
               name: "Due Diligence Management",
               price: "Starting ₹2,00,000",
               variant: "Professional Support",
-              imageSrc: "http://img.b2bpic.net/free-photo/analyzing-lifestyle-female-marketing-tech-high_1421-249.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/analyzing-lifestyle-female-marketing-tech-high_1421-249.jpg?_wi=1",
               imageAlt: "Due diligence support",
             },
           ]}
@@ -394,7 +394,7 @@ export default function HomePage() {
           tagAnimation="slide-up"
           background={{ variant: "sparkles-gradient" }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/colleagues-working-together-project_23-2149286113.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/colleagues-working-together-project_23-2149286113.jpg?_wi=1"
           imageAlt="Business consultation meeting"
           mediaAnimation="opacity"
           mediaPosition="right"
